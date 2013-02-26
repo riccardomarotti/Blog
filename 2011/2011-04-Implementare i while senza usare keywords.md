@@ -38,7 +38,7 @@ Il `while` valuta l’espressione passata (count > 0) ed esegue il blocco passat
 
 Il blocco anonimo `{ count > 0 }` è un oggetto che risponde al messaggio `while_true`.
 
-L’implementazione di `while_true` deve essere tale per cui, fintanto che l’esecuzione del blocco restituisce true, viene eseguito il blocco passato come parametro:
+L’implementazione di `while_true` deve essere tale per cui, fintanto che l’esecuzione del blocco restituisce `true`, viene eseguito il blocco passato come parametro:
 
     :::ruby
      class Proc

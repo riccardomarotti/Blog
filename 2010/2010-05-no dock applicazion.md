@@ -10,7 +10,7 @@ Tags: Video, Xcode, Objective C
 
 Questo video mostra i risultati del primo spike che ho fatto riguardo l’[applicazione][] simil Dropbox che sto sviluppando. 
 
-[applicazione]: http://riccardo.marotti.name/post/560768127/dropbox-sui-google-docs
+[applicazione]: http://riccardo.marotti.name/post/560768127/dropbox-sui-google-docs/
 
 Per rimuovere l’icona dal dock, è sufficiente impostare a `True` la property `Applicaion is Agent`.
 

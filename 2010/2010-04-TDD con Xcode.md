@@ -10,7 +10,7 @@ Questo screencast è una breve introduzione su come si possa lavorare in TDD con
 
 L’applicazione di cui si parla è un matcher, analogo a quello di cui ho parlato nel [precedente][post] post, che ha una classe `Verify`, con una serie di metodi statici per confrontare oggetti.
 
-[post]: http://riccardo.marotti.name/post/540519014/asserzioni-in-objective-c
+[post]: http://riccardo.marotti.name/post/540519014/asserzioni-in-objective-c/
 
 Nel video viene implementato il metodo `that:isEqualTo:`, che non fa nulla se gli oggetti passati sono uguali, e genera un’eccezione se sono diversi.
 

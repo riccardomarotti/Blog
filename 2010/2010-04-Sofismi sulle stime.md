@@ -4,7 +4,7 @@ Category: Processo
 Tags: Spunti di riflessione, Preferiti
 Slug: post/556460537/sulle-stime
 
-Penso che il pretendere di stimare quanto tempo occorre per creare qualcosa, sia lo specchio dell’esigenza di controllo che ha l’uomo su quello che ha intorno. Insomma, è lo specchio dell’[insicurezza] umana.
+Penso che il pretendere di stimare quanto tempo occorre per creare qualcosa, sia lo specchio dell’esigenza di controllo che ha l’uomo su quello che ha intorno. Insomma, è lo specchio dell’insicurezza umana.
 
 [insicurezza]: http://riccardo.marotti.name/post/302673888/la-radice-di-tutti-i-difetti-umani-e
 

@@ -28,7 +28,7 @@ Non ha tutte quelle features cosiddette *"avanzate"*, che ha, per esempio, il C+
 
 La sintassi dell’invio dei messaggi è incredibilmente [espressiva][asserzioni]. 
 
-[asserzioni]: http://riccardo.calepin.co/asserzioni-in-objective-c.html
+[asserzioni]: http://riccardo.marotti.name/post/540519014/asserzioni-in-objective-c/
 
 Questo metodo Ruby
     
