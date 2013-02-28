@@ -1,7 +1,7 @@
 Title: Implementare gli if senza usare keywords
 Date: 2011-02-8
 Category: Programmazione
-Tags: OOP, Spunti di riflessione, Preferiti
+Tags: OOP, Spunti di riflessione, Preferiti, Ruby
 Slug: post/3181905943/implementare-gli-if-senza-usare-keywords
 Abstract: Per fare gl'if non servono parole chiave.
 
@@ -13,7 +13,7 @@ Il succo della programmazione a oggetti è l’invio di messaggi; non è un caso
 
 [Smalltalk]: http://en.wikipedia.org/wiki/Smalltalk
 
-In Ruby i booleani sono le due classi `TrueClass` e `FalseClass`. 
+In Ruby i booleani sono le due classi `TrueClass` e `FalseClass`.
 
 Per ottenere un comportamento simile a quello di Smalltalk, si possono aggiungere i metodi `if_true` e `if_false` a queste classi:
 
@@ -22,25 +22,25 @@ Per ottenere un comportamento simile a quello di Smalltalk, si possono aggiunger
          def if_true
              yield
          end
-    
+
          def if_false
          end
      end
-    
+
      class FalseClass
          def if_true
          end
-    
+
          def if_false
              yield
          end
      end
-     
+
      aBoolean = 1==2
      aBoolean.if_true { print "true!" }
      # invece di
      # print “true!” if aBoolean
-    
+
      aBoolean.if_false { print "false!" }
      # invece di
      # print “false!” unless aBoolean

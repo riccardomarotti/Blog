@@ -1,7 +1,7 @@
 Title: Implementare i while senza usare keywords
 Date: 2011-04-23
 Category: Programmazione
-Tags: OOP, Spunti di riflessione
+Tags: OOP, Spunti di riflessione, Ruby
 Slug: post/4871880142/implementare-i-while-senza-usare-keywords
 Abstract: Per fare i while non servono parole chiave...
 
@@ -17,21 +17,21 @@ Un esempio tipico di ciclo while è rappresentato dal fattoriale. Vediamone il c
      count = 5
      fattoriale = 1
 
-     while count > 0 do 
+     while count > 0 do
          fattoriale = fattoriale * count
          count -= 1
      end
 
      puts fattoriale
 
-Il `while` valuta l’espressione passata (count > 0) ed esegue il blocco passato fintanto che tale espressione è vera. 
+Il `while` valuta l’espressione passata (count > 0) ed esegue il blocco passato fintanto che tale espressione è vera.
 
 [Come per gli if][], però, sarebbe stato possibile evitare di usare costrutti procedurali: è sufficiente aggiungere un messaggio `while_true` alla classe che rappresenta il blocco (cioè `Proc`), e usarlo in modo del tutto analogo al while:
 
 [Come per gli if]: http://riccardo.marotti.name/post/3181905943/implementare-gli-if-senza-usare-keywords/
 
     :::ruby
-     proc { count > 0 }.while_true do 
+     proc { count > 0 }.while_true do
          fattoriale = fattoriale * count
          count -= 1
      end
