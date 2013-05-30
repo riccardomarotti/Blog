@@ -1,6 +1,5 @@
 Title: Dropbox sui Google Docs
 Date: 2010-05-1 6:11
-Category: Programmazione
 Tags: Objective C, Cocoa
 Slug: post/560768127/dropbox-sui-google-docs
 
