@@ -26,7 +26,7 @@ Ho trovato [questo][strip_drm] articolo, che spiega come fare, solo che non funz
 
 [strip_drm]: http://imaddicted.ca/ebooks/using-inept-to-strip-drm/
 
-In sostanza, per poter decrittare i pdf, servono: 
+In sostanza, per poter decrittare i pdf, servono:
 
 1. <strike>Windows :( (purtroppo gli script richiedono windll…) </strike>
 2. [Python][] installato
@@ -36,15 +36,15 @@ In sostanza, per poter decrittare i pdf, servono:
 
 A questo punto, dopo aver messo gli script e il pdf in una qualunque directory (per esempio c:\pdf), si esegue, da una command line in quella directory, ineptkey.pyw per ottenere la chiave dell’utente.
 
-![image1](/static/images/drm-1.png)
+![image1](/images/drm-1.png)
 
 Poi si esegue `ineptpdf.pyw`
 
-![image2](/static/images/drm-2.png)
+![image2](/images/drm-2.png)
 
 inserendo il file contenente la chiave, il pdf protetto e il nome del file di output:
 
-![image3](/static/images/drm-3.png)
+![image3](/images/drm-3.png)
 
 Premere Decrypt.
 

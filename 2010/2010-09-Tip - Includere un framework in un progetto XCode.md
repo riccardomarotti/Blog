@@ -16,14 +16,14 @@ Questo succede perché l’eseguibile, linkato dinamicamente con il framework, n
 
 Per creare la directory e copiare al suo interno la libreria, basta aggiungere un “Copy Files Build Phase” (Click destro sul target, poi `Add -> New Build Phase -> New Copy Files Build Phase`):
 
-![ima1](/static/images/framework-tip-1.png)
+![ima1](/images/framework-tip-1.png)
 
 e assicurarsi di selezionare Frameworks come Destination
 
-![ima2](/static/images/framework-tip-2.png)
+![ima2](/images/framework-tip-2.png)
 
 Ora basta draggare il framework nel passo appena creato
 
-![ima3](/static/images/framework-tip-3.png)
+![ima3](/images/framework-tip-3.png)
 
 In questo modo, la libreria sarà copiata opportunamente, e non ci saranno sorprese a runtime.

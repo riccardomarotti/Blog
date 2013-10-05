@@ -5,5 +5,5 @@ Slug: post/2400105707/tip-del-giorno-unable-to-configure-leaks-on
 Abstract: Tip.
 
 <p>Se lanciando <a target="_blank" href="http://en.wikipedia.org/wiki/Instruments_(application)">Instruments</a>, alla ricerca di memory leaks, ti succede questo:</p>&#13;
-<p><img src="/static/images/instruments.png" /></p>&#13;
-<p>probabilmente devi solo staccare l'iPhone/iPad dalla porta usb.</p> 
+<p><img src="/images/instruments.png" /></p>&#13;
+<p>probabilmente devi solo staccare l'iPhone/iPad dalla porta usb.</p>

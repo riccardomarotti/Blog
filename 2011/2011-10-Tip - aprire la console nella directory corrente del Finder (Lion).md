@@ -9,6 +9,6 @@ Mi capita spesso, mentre uso il Finder, di dover aprire un terminale dal punto i
 
 Per abilitarlo, basta aprire `System Preferences > Keyboard > Keyboard Shortcuts > Services`, fare doppio click a fianco di “New Terminal at Folder” per inserire lo shortcut con cui si desidera aprire il terminale, e selezionare la checkbox corrispondente:
 
-![image](/static/images/new_terminal_at_folder.png)
+![image](/images/new_terminal_at_folder.png)
 
 In questo modo, si potrà accedere alla funzionalità tramite `click destro > Services > New Terminal at Folder`, oppure tramite lo shortcut inserito.

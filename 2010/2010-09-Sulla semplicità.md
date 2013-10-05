@@ -14,30 +14,30 @@ Ho letto un interessante [post][] di [Don Norman][norman] sulla sopravvalutazion
 
 Mi sembra molto controcorrente, dato che, negli ultimi tempi, sono tutti fan della semplicità a tutti i costi.
 
-In sintesi, il discorso è: la gente non vuole le cose semplici; non è disposta a spendere di più per una lavatrice che ha un solo pulsante, dato che è tutto automatico, piuttosto che una che ha mille manopole e pulsanti. L’impressione è che quella che ha un solo pulsante valga meno di quella complicata. Penso che questo sia vero, anche se paradossale. 
+In sintesi, il discorso è: la gente non vuole le cose semplici; non è disposta a spendere di più per una lavatrice che ha un solo pulsante, dato che è tutto automatico, piuttosto che una che ha mille manopole e pulsanti. L’impressione è che quella che ha un solo pulsante valga meno di quella complicata. Penso che questo sia vero, anche se paradossale.
 
 Un esempio molto italiano è il cambio automatico: gli Italiani non vogliono il cambio automatico, nonostante la totale inutilità del cambio manuale. La cosa semplice, il cambio automatico, non è *cool*. Per un Italiano, guidare un’auto col cambio automatico è poco virile. Senza cambio non ci si diverte. Etc…
 
 Penso che l’errore sia generalizzare questo concetto. È vero che ci sono molti casi in cui le persone non vogliono le cose semplici, ma preferiscono quelle complicate: questo non significa che sia vero in qualunque contesto.
 
-Ci sono oggetti di grande successo che hanno introdotto una notevole semplificazione; l’iPhone è il caso più eclatante. Paragonato a un Blackberry, penso sia evidente qual è l’oggetto più semplice. 
+Ci sono oggetti di grande successo che hanno introdotto una notevole semplificazione; l’iPhone è il caso più eclatante. Paragonato a un Blackberry, penso sia evidente qual è l’oggetto più semplice.
 
-![iphone](/static/images/semplicita-1.jpg)
-![bb](/static/images/semplicita-2.jpg)
+![iphone](/images/semplicita-1.jpg)
+![bb](/images/semplicita-2.jpg)
 
 Ma, in questo caso, l’oggetto più semplice è anche quello di maggior successo.
 
 Porto un esempio personale: qualche tempo fa ho avuto la necessità di *rippare* dei dvd. Ad una prima ricerca ho trovato un software chiamato [Handbrake][]. Installato e aperto, questa è la finestra che si propone:
 
 [Handbrake]: http://handbrake.fr/
-![handbrake_image](/static/images/semplicita-3.png)
+![handbrake_image](/images/semplicita-3.png)
 
 Non che sia impossibile comprendere il funzionamento, ma io dovevo solo rippare un dvd.
 
 Successivamente ho scoperto [Rip-it][]:
 
 
-![ripit](/static/images/semplicita-4.jpg)
+![ripit](/images/semplicita-4.jpg)
 
 [Rip-it]: http://thelittleappfactory.com/ripit/
 
