@@ -14,7 +14,7 @@ Slug: post/560768127/dropbox-sui-google-docs
 <li>20GB sui Google Docs costano 5$ l’anno</li>&#13;
 <li>80GB sui Google Docs costano 20$ l’anno.</li>&#13;
 </ul><p>Non credo servano ulteriori commenti :).</p>&#13;
-<p>Come avevo detto <a target="_blank" href="http://blog.riccardomarotti.com/post/537851192/ma-davvero-agli-italiani-non-interessa-il-tdd/">precedentemente</a>, vorrei riportare qui gli sviluppi dello sviluppo :)</p>&#13;
+<p>Come avevo detto <a target="_blank" href="/post/537851192/ma-davvero-agli-italiani-non-interessa-il-tdd/">precedentemente</a>, vorrei riportare qui gli sviluppi dello sviluppo :)</p>&#13;
 <p>Lo annuncio pubblicamente perché ritengo sia uno stimolo in più ad arrivare in fondo.</p>&#13;
 <p>La prima cosa che farò è uno spike per capire come si possa creare un’applciazione che non appaia nel dock, ma solo nella barra del menu, esattamente come fa Dropbox (ma anche Time Machine, per esempio).</p>&#13;
 <p>Poi farò un altro spike per capire a fondo come si può interagire con i docs da Objective C. </p>&#13;
@@ -22,4 +22,4 @@ Slug: post/560768127/dropbox-sui-google-docs
 <ul><li>modulo per l’accesso ai docs</li>&#13;
 <li>modulo con la logica di sincronizzazione</li>&#13;
 <li>interfaccia grafica</li>&#13;
-</ul><p>Penso che, tra un mesetto (sia chiaro, non è una <a target="_blank" href="http://blog.riccardomarotti.com/post/556460537/sulle-stime/">stima</a> ;), avrò bisogno di qualche beta tester: qualcuno si offre volontario?</p>
+</ul><p>Penso che, tra un mesetto (sia chiaro, non è una <a target="_blank" href="/post/556460537/sulle-stime/">stima</a> ;), avrò bisogno di qualche beta tester: qualcuno si offre volontario?</p>

@@ -6,7 +6,7 @@ Slug: post/556460537/sulle-stime
 
 Penso che il pretendere di stimare quanto tempo occorre per creare qualcosa, sia lo specchio dell’esigenza di controllo che ha l’uomo su quello che ha intorno. Insomma, è lo specchio dell’insicurezza umana.
 
-[insicurezza]: http://blog.riccardomarotti.com/post/302673888/la-radice-di-tutti-i-difetti-umani-e
+[insicurezza]: /post/302673888/la-radice-di-tutti-i-difetti-umani-e
 
 Avete mai avuto a che fare con dei costruttori di case? Non esiste che consegnino nei tempi pattuiti. Tre mesi di ritardo sono considerati un ottimo risultato. Eppure si costruiscono case da centinaia di anni: le tecniche e i tempi dovrebbero essere piuttosto noti. Invece no.
 
