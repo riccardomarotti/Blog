@@ -6,7 +6,7 @@ Slug: post/556460537/sulle-stime
 
 Penso che il pretendere di stimare quanto tempo occorre per creare qualcosa, sia lo specchio dell’esigenza di controllo che ha l’uomo su quello che ha intorno. Insomma, è lo specchio dell’insicurezza umana.
 
-[insicurezza]: http://riccardo.marotti.name/post/302673888/la-radice-di-tutti-i-difetti-umani-e
+[insicurezza]: http://blog.riccardomarotti.com/post/302673888/la-radice-di-tutti-i-difetti-umani-e
 
 Avete mai avuto a che fare con dei costruttori di case? Non esiste che consegnino nei tempi pattuiti. Tre mesi di ritardo sono considerati un ottimo risultato. Eppure si costruiscono case da centinaia di anni: le tecniche e i tempi dovrebbero essere piuttosto noti. Invece no.
 
@@ -22,7 +22,7 @@ La natura non rispetta i tempi con precisione, ma segue delle regole precise e s
 
 Quello che voglio dire è che voler sapere con precisione quando si potrà consegnare una tal feature è futile. Non si può. Quello che possiamo fare è avere le idee ben chiare su quello che occorre, ed essere lenti ma inesorabili nel portarlo a termine, come fa la natura.
 
-Certo, un cliente non accetterà mai un discorso del genere, ma la realtà è questa. 
+Certo, un cliente non accetterà mai un discorso del genere, ma la realtà è questa.
 
 Io, come cliente di me stesso, pretendo solo di essere focalizzato su ciò che occorre fare; quindi di sapere che finirò quello che inizio, nel modo più efficiente possibile, realizzando tutto, **e solo**, quello che è necessario.
 

@@ -13,8 +13,8 @@ Il [commento][] di Alessandro al mio [post precedente][] ha evidenziato che, con
      end
 
 
-[commento]: http://riccardo.marotti.name/post/4871880142/implementare-i-while-senza-usare-keywords/#comment-190803796
-[post precedente]: http://riccardo.marotti.name/post/4871880142/implementare-i-while-senza-usare-keywords/
+[commento]: http://blog.riccardomarotti.com/post/4871880142/implementare-i-while-senza-usare-keywords/#comment-190803796
+[post precedente]: http://blog.riccardomarotti.com/post/4871880142/implementare-i-while-senza-usare-keywords/
 perché lo stack si riempirebbe dopo poco.
 
 La soluzione a questo problema è l’implementazione della [Tailcall Optimization][] (TCO). In parole povere si tratta, quando possibile, di rendere iterative le chiamate ricorsive.

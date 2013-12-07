@@ -22,16 +22,16 @@ Inoltre, almeno per me, pensare che un programma non è altro che un insieme di 
 
 Di fatto si tratta di C, con in più gli oggetti e la sintassi per inviare messaggi tra loro. Nulla di più.
 
-Non ha tutte quelle features cosiddette *"avanzate"*, che ha, per esempio, il C++ (templates, ereditarietà multipla, overloading, e chi più ne ha più ne metta). 
+Non ha tutte quelle features cosiddette *"avanzate"*, che ha, per esempio, il C++ (templates, ereditarietà multipla, overloading, e chi più ne ha più ne metta).
 
 ###Espressività###
 
-La sintassi dell’invio dei messaggi è incredibilmente [espressiva][asserzioni]. 
+La sintassi dell’invio dei messaggi è incredibilmente [espressiva][asserzioni].
 
-[asserzioni]: http://riccardo.marotti.name/post/540519014/asserzioni-in-objective-c/
+[asserzioni]: http://blog.riccardomarotti.com/post/540519014/asserzioni-in-objective-c/
 
 Questo metodo Ruby
-    
+
     :::ruby
     str.insert(5, "pippo")
 

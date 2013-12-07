@@ -8,9 +8,9 @@ Tags: Video, Xcode, Objective C
 
 **Spike**: come rimuovere un’applicazione dal dock e aggiungere alla barra di stato un’icona per l’applicazione, con relativo menu.
 
-Questo video mostra i risultati del primo spike che ho fatto riguardo l’[applicazione][] simil Dropbox che sto sviluppando. 
+Questo video mostra i risultati del primo spike che ho fatto riguardo l’[applicazione][] simil Dropbox che sto sviluppando.
 
-[applicazione]: http://riccardo.marotti.name/post/560768127/dropbox-sui-google-docs/
+[applicazione]: http://blog.riccardomarotti.com/post/560768127/dropbox-sui-google-docs/
 
 Per rimuovere l’icona dal dock, è sufficiente impostare a `True` la property `Applicaion is Agent`.
 
@@ -18,11 +18,11 @@ Per aggiungere un'icona alla status bar, con relativo menu, bisogna configurare 
 
 	:::objective-c
 	[statusItem setMenu:applicationMenu];
-	
+
 	[statusItem setImage:[NSImage imageNamed:name]];
 
-Nell’esempio ho usato l’icona di Dropbox: 
+Nell’esempio ho usato l’icona di Dropbox:
 
-La musica è dei Blue Wave Theory, ed è reperibile su magnatune. 
+La musica è dei Blue Wave Theory, ed è reperibile su magnatune.
 
-[^1]: Quando si lancia l'applicazione, viene costruito il grafo degli oggetti codificati nel file `.xib` e vengono creati gli oggetti corrispondenti con le relative connessioni. Alla fine, prima di visualizzare l'applicazione, viene inviato il messaggio `awakeFromNib` a tutti gli oggetti che rispondono a tale messaggio. 
+[^1]: Quando si lancia l'applicazione, viene costruito il grafo degli oggetti codificati nel file `.xib` e vengono creati gli oggetti corrispondenti con le relative connessioni. Alla fine, prima di visualizzare l'applicazione, viene inviato il messaggio `awakeFromNib` a tutti gli oggetti che rispondono a tale messaggio.
