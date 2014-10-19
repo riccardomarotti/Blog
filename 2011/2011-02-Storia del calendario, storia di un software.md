@@ -1,8 +1,7 @@
 Title: Storia del calendario, storia di un software
 Date: 2011-02-22
 Category: Racconti
-Tags: Preferiti
-Tags: Spunti di riflessione
+Tags: Spunti di riflessione,Preferiti
 Slug: post/3445357594/storia-del-calendario-storia-di-un-software
 Abstract: Perché la storia del calendario sembra la storia di un software.
 
