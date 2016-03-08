@@ -28,7 +28,7 @@ Il `while` valuta l’espressione passata (count > 0) ed esegue il blocco passat
 
 [Come per gli if][], però, sarebbe stato possibile evitare di usare costrutti procedurali: è sufficiente aggiungere un messaggio `while_true` alla classe che rappresenta il blocco (cioè `Proc`), e usarlo in modo del tutto analogo al while:
 
-[Come per gli if]: /post/3181905943/implementare-gli-if-senza-usare-keywords/
+[Come per gli if]: /post/3181905943/implementare-gli-if-senza-usare-keywords
 
     :::ruby
      proc { count > 0 }.while_true do
@@ -54,7 +54,7 @@ L’implementazione di `while_true` deve essere tale per cui, fintanto che l’e
 
 (Per l’implementazione di `if_true`, si veda il [post sugli if]).
 
-[post sugli if]: /post/3181905943/implementare-gli-if-senza-usare-keywords/
+[post sugli if]: /post/3181905943/implementare-gli-if-senza-usare-keywords
 
 Può dare l’impressione di essere una banale modifica sintattica, ma si tratta di una differenza più sostanziale di quanto sembri.
 

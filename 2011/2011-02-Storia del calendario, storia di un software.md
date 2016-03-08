@@ -17,7 +17,7 @@ Una delle prime versioni di calendario fu quello di Romolo. Pare che questo cale
 
 Poi si cominciò a pensare che il popolo romano non potesse ritenere accettabile un sistema così impreciso. È come quando arriva il nuovo manager con discorsi del tipo “il processo deve essere mappato in modo più rigoroso!”, con l’unico scopo di illudersi di avere più [controllo].
 
-[controllo]: /post/556460537/sulle-stime/
+[controllo]: /post/556460537/sulle-stime
 
 Allora Numa modificò le durate dei mesi (i mesi con giorni pari portavano sfortuna) e aggiunse Gennaio e Febbraio. In questo modo si arrivò ad avere 355 giorni. Per recuperare i dieci giorni che mancavano, venne introdotto un complicatissimo sistema di recupero, che, in sintesi, consisteva nell’inserire un mese straordinario, il Mercedonio, ogni due anni, che durava 22 o 23 giorni. Il ciclo era di quattro anni: anno normale, anno con mercedonio di 22 giorni, anno normale, anno con mercedonio di 23 giorni, anno normale, anno con mercedonio di 22 giorni.
 
