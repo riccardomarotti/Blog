@@ -22,4 +22,4 @@ Slug: post/560768127/dropbox-sui-google-docs
 <ul><li>modulo per l’accesso ai docs</li>&#13;
 <li>modulo con la logica di sincronizzazione</li>&#13;
 <li>interfaccia grafica</li>&#13;
-</ul><p>Penso che, tra un mesetto (sia chiaro, non è una <a target="_blank" href="/post/556460537/sulle-stime/">stima</a> ;), avrò bisogno di qualche beta tester: qualcuno si offre volontario?</p>
+</ul><p>Penso che, tra un mesetto (sia chiaro, non è una <a target="_blank" href="/post/556460537/sulle-stime">stima</a> ;), avrò bisogno di qualche beta tester: qualcuno si offre volontario?</p>
