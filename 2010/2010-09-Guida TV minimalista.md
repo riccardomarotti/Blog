@@ -3,13 +3,13 @@ Date: 2010-09-30
 Category: Programmazione
 Tags: Ruby
 Slug: post/1215146887/guidatv
-Abstract: http://guidatv.heroku.com
+Abstract: https://guidatv.herokuapp.com/
 
 Volevo una singola pagina, che mi permettesse, senza dover cliccare mille link, scrollare pagine lunghissime, o usare applicazione flash dall’usabilità discutibile, di vedere i programmi tv della serata, per tutti canali che mi interessano .
 
 Non sono riuscito a trovarla, per cui me la sono fatta, ed è questa:
 
-<http://guidatv.heroku.com>
+<https://guidatv.herokuapp.com/>
 
 È un’applicazione che raccoglie i dati dei programmi in giro per la rete, e li mostra, si spera senza troppi errori (non sono un mago delle regular expression), in una singola pagina. È anche possibile vedere la programmazione completa dei singoli canali.
 
