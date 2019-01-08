@@ -10,9 +10,9 @@ Slug: post/560768127/dropbox-sui-google-docs
 </blockquote>&#13;
 <p>Oggi inizio ufficialmente lo sviluppo di un’applicazione che permetta di sincronizzare una directory locale con i Google Documents. In pratica vorrei fare una sorta di Dropbox che si appoggi a Google.</p>&#13;
 <p>Perché? </p>&#13;
-<ul><li>50GB con Dropbox costano 100$ l’anno</li>&#13;
-<li>20GB sui Google Docs costano 5$ l’anno</li>&#13;
-<li>80GB sui Google Docs costano 20$ l’anno.</li>&#13;
+<ul><li>50GB con Dropbox costano 100&#36; l’anno</li>&#13;
+<li>20GB sui Google Docs costano 5&#36; l’anno</li>&#13;
+<li>80GB sui Google Docs costano 20&#36; l’anno.</li>&#13;
 </ul><p>Non credo servano ulteriori commenti :).</p>&#13;
 <p>Come avevo detto <a target="_blank" href="/post/537851192/ma-davvero-agli-italiani-non-interessa-il-tdd">precedentemente</a>, vorrei riportare qui gli sviluppi dello sviluppo :)</p>&#13;
 <p>Lo annuncio pubblicamente perché ritengo sia uno stimolo in più ad arrivare in fondo.</p>&#13;
